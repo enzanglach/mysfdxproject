@@ -1,2 +1,2 @@
 # mysfdxproject
-My SFDX Project
+My SFDX CI/CD Project
