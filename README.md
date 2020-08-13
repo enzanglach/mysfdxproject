@@ -1,2 +1,2 @@
 # mysfdxproject
-My SFDX CI/CD Project - branch 1
+My SFDX CI/CD Project - branches
